@@ -1,0 +1,1 @@
+Server=mysqlnew.mysql.database.azure.com; Port=3306; Database=mysqlnew; Uid=rafael@mysqlnew; Pwd=Spfc33671234567; SslMode=Preferred;
