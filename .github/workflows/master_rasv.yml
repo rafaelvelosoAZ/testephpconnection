@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'rasv'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5dcf872214e6498889a6f5e01fa2a930 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6eeb0dc880854ab5abccdc566c085be1 }}
         package: ${{env.DOTNET_ROOT}}/myapp 
